@@ -3,17 +3,17 @@ Analyzes the characteristics of the server and helps calculate the number of wor
 
 [options]
 
-#
-# WARNING:
-#  If you use the Odoo Database utility to change the master password be aware  
-#  that the formatting of this file WILL be LOST! A copy of this file named
-#  /etc/odoo/openerp-server.conf.template has been made in case this happens
-#  Note that the copy does not have any first boot changes
+
+ WARNING:
+  If you use the Odoo Database utility to change the master password be aware  
+  that the formatting of this file WILL be LOST! A copy of this file named
+  /etc/odoo/openerp-server.conf.template has been made in case this happens
+  Note that the copy does not have any first boot changes
 #-----------------------------------------------------------------------------
-#  Odoo Server Config File - TurnKey Linux
-#  ( /etc/odoo/openerp-server.conf )
-#
-#   Great pain has been taken to organize this file, and include comments for 
+  Odoo Server Config File - TurnKey Linux
+  ( /etc/odoo/openerp-server.conf )
+
+   Great pain has been taken to organize this file, and include comments for 
 #   each. As with all open source software this file is a work in progress. If
 #   you see something that is wrong or needs to be updated, submit and issue
 #   on TurnKey's GIT Hub issue tracker! Or better yet, fork the repo with this
